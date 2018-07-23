@@ -16,6 +16,7 @@
 		2BFCEA9C2105B67F008961CE /* WTBottomInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BFCEA962105B67E008961CE /* WTBottomInputView.m */; };
 		2BFCEA9D2105B67F008961CE /* WTRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BFCEA992105B67F008961CE /* WTRootViewController.m */; };
 		2BFCEA9E2105B67F008961CE /* UIView+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BFCEA9A2105B67F008961CE /* UIView+Ext.m */; };
+		2BFCEAA02105C17E008961CE /* gif_RPBottomInputBox.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2BFCEA9F2105C17E008961CE /* gif_RPBottomInputBox.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		2BFCEA992105B67F008961CE /* WTRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTRootViewController.m; sourceTree = "<group>"; };
 		2BFCEA9A2105B67F008961CE /* UIView+Ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Ext.m"; sourceTree = "<group>"; };
 		2BFCEA9B2105B67F008961CE /* WTRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTRootViewController.h; sourceTree = "<group>"; };
+		2BFCEA9F2105C17E008961CE /* gif_RPBottomInputBox.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif_RPBottomInputBox.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				2BFCEA962105B67E008961CE /* WTBottomInputView.m */,
 				2BFCEA9B2105B67F008961CE /* WTRootViewController.h */,
 				2BFCEA992105B67F008961CE /* WTRootViewController.m */,
+				2BFCEA9F2105C17E008961CE /* gif_RPBottomInputBox.gif */,
 				2BFCEA6D2105B651008961CE /* Assets.xcassets */,
 				2BFCEA6F2105B651008961CE /* LaunchScreen.storyboard */,
 				2BFCEA722105B651008961CE /* Info.plist */,
@@ -244,6 +247,7 @@
 			files = (
 				2BFCEA712105B651008961CE /* LaunchScreen.storyboard in Resources */,
 				2BFCEA6E2105B651008961CE /* Assets.xcassets in Resources */,
+				2BFCEAA02105C17E008961CE /* gif_RPBottomInputBox.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

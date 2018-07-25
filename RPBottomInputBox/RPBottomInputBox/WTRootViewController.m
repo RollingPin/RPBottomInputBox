@@ -120,7 +120,7 @@
     [_dataSource insertObject:paramDic atIndex:0];
     [_tableView reloadData];
     [_tableView scrollToRowAtIndexPath:[NSIndexPath indexPathForRow:0 inSection:0] atScrollPosition:UITableViewScrollPositionTop animated:YES];
-    
+    bottomView.textView.text = @"";
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
